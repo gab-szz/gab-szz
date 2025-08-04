@@ -25,7 +25,35 @@
 ### 📊 Minhas estatísticas no GitHub:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  ---
+
+### 🚀 Tecnologias que eu uso no dia a dia:
+
+* **Backend:** Python (Flask, FastAPI), Node.js (Express, Nest)
+* **Frontend:** React, Chakra UI, Vite, TypeScript
+* **Banco de dados:** PostgreSQL, MongoDB, OracleDB
+* **DevOps:** Docker, GitHub Actions, CI/CD
+* **Integrações:** APIs REST, n8n, automações e fluxos com IA
+
+---
+
+### 📊 Minhas estatísticas no GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-szz&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+---
+
+### 📫 Vamos conversar?
+
+* ✉️ Email: [silvio.apad@gmail.com](mailto:silvio.apad@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/gab-szz](https://linkedin.com/in/gab-szz)
+* 🧠 Projetos atuais: UniWays, GestSync, TechChallenge
+
+---
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-szz&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
