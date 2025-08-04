@@ -32,7 +32,7 @@
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical&include_all_commits=true" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical" height="170px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-szz&layout=compact&langs_count=8&theme=radical" height="170px" alt="Top Languages" />
 </div>
 
