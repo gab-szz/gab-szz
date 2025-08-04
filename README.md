@@ -54,14 +54,6 @@ Sou um desenvolvedor full stack que atua desde a construção de APIs robustas a
 
 ---
 
-### 💡 Projetos em destaque
-
-- 🚧 **TechChallenge** – API REST com Node.js, Express, MongoDB, Docker e testes automatizados  
-- 📚 **UniWays** – Plataforma educacional full stack com backend em Python e frontend em React  
-- 🔁 **GestSync** – Solução no-code de automações com APIs e IA
-
----
-
 ### 📬 Entre em contato
 
 Se quiser trocar ideias, tirar dúvidas ou colaborar em projetos:
@@ -72,5 +64,5 @@ Se quiser trocar ideias, tirar dúvidas ou colaborar em projetos:
 ---
 
 <p align="center">
-  Feito com 💙, automações inteligentes e <strong>TypeScript</strong> por Gabriel Silvio
+  Feito com 💙 por Gabriel Silvio
 </p>
