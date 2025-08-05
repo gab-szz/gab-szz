@@ -28,6 +28,15 @@ Sou um desenvolvedor full stack que atua desde a construção de APIs robustas a
 
 ---
 
+### 📈 Estatísticas no GitHub
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical&custom_title=Estatísticas+do+GitHub" alt="GitHub Stats"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-szz&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas"/>
+</div>
+
+---
+
 ### 🧰 Stack que utilizo no dia a dia
 
 #### Backend:
@@ -42,24 +51,6 @@ Sou um desenvolvedor full stack que atua desde a construção de APIs robustas a
 
 #### DevOps e Integrações:
 - Docker · GitHub Actions · REST APIs · n8n · Integrações com IA
-
----
-
-### 📈 Estatísticas no GitHub
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gab-szz&show_icons=true&theme=radical&custom_title=Estatísticas+do+GitHub" alt="GitHub Stats"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-szz&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas"/>
-</div>
-
----
-
-### 📬 Entre em contato
-
-Se quiser trocar ideias, tirar dúvidas ou colaborar em projetos:
-
-- 📧 [silvio.apad@gmail.com](mailto:silvio.apad@gmail.com)  
-- 💼 [linkedin.com/in/gabriel-silvio-a69a77266](https://linkedin.com/in/gabriel-silvio-a69a77266)  
 
 ---
 
