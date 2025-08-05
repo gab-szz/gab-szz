@@ -1,7 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o Gabriel Silvio</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> | Pós Tech FIAP + Alura<br/>
+  <strong>Análise e Desenvolvimento de Sistemas</strong> | Anhanguera<br/>
+  <strong>Desenvolvimento Full Stack</strong> | Pós Tech FIAP + Alura<br/>
   Apaixonado por construir sistemas com propósito e automações inteligentes
 </p>
 
