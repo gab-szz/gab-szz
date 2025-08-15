@@ -42,7 +42,7 @@ Sou um desenvolvedor full stack que atua desde a construção de APIs robustas a
 
 #### Backend:
 - **Python:** Flask · FastAPI
-- **Node.js:** Express · NestJS
+- **Node.js:** Express · NestJS · Fastify
 
 #### Frontend:
 - **React** · Chakra UI · Vite · TypeScript
